@@ -32,7 +32,7 @@
   </div>
 
    <h1> Setup the pipeline automatically till docker </h1>
-   <h1> Automateed docker image build and run container task automatically<h1>
+   <h1> Automateed docker image build and run container task automatically........<h1>
 
   
 </form>
