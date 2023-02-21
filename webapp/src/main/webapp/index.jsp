@@ -32,7 +32,7 @@
   </div>
 
    <h1> Setup the pipeline automatically till docker </h1>
-   <h1> Automateed docker image build and run container task automatically........stop and create new contaner <h1>
+   <h1> Automateed docker image build using ansible<h1>
 
   
 </form>
