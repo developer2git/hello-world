@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Setup the pipeline automatically till docker and ansible </h1>
+   <h5> Setup the pipeline automatically to create images uisng ansible and deploy to dockerhub </h5>
    <h1> Automateed docker image build using ansible and deploy through ansible<h1>
 
   
